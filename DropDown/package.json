@@ -1,0 +1,15 @@
+{
+    "name": "drop-down-sudhanshu",
+    "version": "1.0.0",
+    "description": "A simple dropdown module",
+    "main": "DropDown.js",
+    "type": "module",
+    "author": "sudhanshusodiyal <sudhanshusodiyal15@gmail.com>",
+    "license": "MIT",
+    "publishConfig": {
+        "access": "public"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    }
+}

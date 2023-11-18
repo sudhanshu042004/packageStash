@@ -1,11 +1,13 @@
 {
-    "name": "menu",
-    "version": "1.0.0",
-    "description": "",
-    "main": "main.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC"
+  "name": "hamburger-navigation-sudhanshu",
+  "private": false,
+  "version": "0.0.3",
+  "type": "module",
+  "main": "menuBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sudhanshu <sudhanshusaudiyal15@gmail.com> ",
+  "license": "ISC",
+  "description": ""
 }
